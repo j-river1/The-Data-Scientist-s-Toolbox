@@ -1,0 +1,62 @@
+
+## Quiz 1:
+### Question 1
+
+Which of the following are courses in the Data Science Specialization? Select all that apply:
+
+**Answers:**
+
+-Machine Learning for Hackers
+-**Exploratory Data Analysis**
+-**Practical Machine Learning**
+-Data Science 101
+-Business Analytics
+
+
+### Question 2
+
+Why are we using R for the course track? Select all that apply.
+
+**Answers:**
+
+- R is a general purpose programming language.
+- **R is one of the most widely used programming languages for Data Science.**
+- **R is free.**
+- **R has a nice IDE, Rstudio.**
+- R allows object oriented programming.
+
+### Question 3:
+
+What are good ways to find answers to questions in this course track? Select all that apply.
+
+**Answers:**
+
+-**Looking through R help files.**
+-Posting homework assignments to mailing lists
+-**Asking a skilled friend.**
+-Expecting every answer to be in a lecture slide
+
+
+
+### Question 4:
+
+What are characteristics of good questions on the message boards? Select all that apply.
+
+**Answers:**
+
+- Is an exact homework question.
+- **Is polite and courteous.**
+- **Is very specific.**
+- Is insulting or rude.
+
+### Question 5
+
+Which of the following packages provides machine learning functionality? Select all that apply
+
+**Answers:**
+
+- **caret**
+- slidify
+- filehash
+- **rpart**
+- lubridate
